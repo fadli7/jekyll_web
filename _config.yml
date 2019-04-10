@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-source: source
+# source: source
 destination: _site
 sass:
   sass_dir: _sass
@@ -23,8 +23,8 @@ keywords: "Jekyll, theme, free, download, SEO, blog, web"
 
 # Site settings
 url: http://nandomoreira.me
-baseurl: "/dotX"
-# baseurl: ""
+# baseurl: "/dotX"
+baseurl: ""
 
 # Author settings
 author:
@@ -40,7 +40,7 @@ author:
   linkedin  : http://linkedin.com/in/nandomoreirame
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/dotX
+repo: https://github.com/fadli7/jekyll_web
 
 # comments
 disqus_shortname: "fernandomoreira"
