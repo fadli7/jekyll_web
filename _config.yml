@@ -23,8 +23,8 @@ keywords: "Jekyll, theme, free, download, SEO, blog, web"
 
 # Site settings
 url: http://nandomoreira.me
-# baseurl: "/dotX"
-baseurl: ""
+baseurl: "/jekyll_web"
+# baseurl: ""
 
 # Author settings
 author:
